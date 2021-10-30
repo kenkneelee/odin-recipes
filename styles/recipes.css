@@ -17,7 +17,7 @@ body {
 .recipe {
     background-color: white;
     margin: 5% 25% 5% 25%;
-    padding: 5% 0% 5% 0%;
+    padding: 3% 0% 5% 0%;
     border: 2px solid black;
     border-radius:40px;
 }
